@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6e0e6957-5822-4a1d-971f-4ad163a18c98"
+      }
+    },
+    "owner": "andrewcod3x"
   }
 }
